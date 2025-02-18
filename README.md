@@ -38,3 +38,13 @@ _Şu anda Namık Kemal Üniversitesi, Bilgisayar Programcılığı 2. sınıf ö
 ## 📫 İletişim  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profiliniz-0A66C2?logo=linkedin)](https://www.linkedin.com/in/emre-burak-ak%C3%A7ealan-116b42295/)  
 [![Email](https://img.shields.io/badge/Email-Bana%20Ulaşın-D14836?logo=gmail)](mailto:emreakcealan@gmail.com)  
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ebakc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ebakc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebakc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ebakc&icon=0&color=0)](https://visitcount.itsvg.in)
