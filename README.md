@@ -30,8 +30,7 @@ _Şu anda Namık Kemal Üniversitesi, Bilgisayar Programcılığı 2. sınıf ö
 ---
 
 ## 🌱 Şu Anda Öğrendiklerim  
-- Godot Engine ve gdScript  
-- Almanca    
+- Unreal Engine    
 
 ---
 
