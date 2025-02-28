@@ -6,7 +6,6 @@ _Şu anda Namık Kemal Üniversitesi, Bilgisayar Programcılığı 2. sınıf ö
 
 ## 🛠️ Teknoloji Stack'im  
 - **Oyun Geliştirme:**  
-  ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
   
