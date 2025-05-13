@@ -1,48 +1,36 @@
-# 👋 Merhaba, Ben Emre Burak!  
-**🎯 Oyun ve Yazılım Geliştirici**  
-_Şu anda Namık Kemal Üniversitesi, Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Oyun geliştirmeye ilgiliyim ve bu konuda ufak çaplı projeler yapmaya çalışıyorum._  
+# 👋 Merhaba, ben Emre Burak Akçealan
+
+🎓 Namık Kemal Üniversitesi'nde Bilgisayar Programcılığı öğrencisiyim. 2+ yıldır yazılım geliştirme ile ilgileniyorum ve bu süreçte oyunlar, mobil uygulamalar ve Web/Windows projeleri üzerine odaklandım.
+
+🚀 Amacım, teknik becerilerimi yaratıcılıkla birleştirerek kullanıcı odaklı projeler geliştirmek. Kod yazarken sadece çalışan bir sistem değil, aynı zamanda etkileyici bir deneyim oluşturmayı hedefliyorum.
 
 ---
 
-## 🛠️ Teknoloji Stack'im  
-- **Oyun Geliştirme:**  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-  
-- **Web & Desktop:**  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
-  
-- **Araçlar:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+## 🧩 Projelerimden Bazıları
+
+### 🎮 Kör Gladyatörler
+Java & Android Studio kullanarak geliştirdiğimiz, iki kişilik oynanabilen Android mobil dövüş oyunu. Oyun mekaniği ve arayüz tasarımı gibi görevleri ekip arkadaşımla paylaştım. Photoshop ve yapay zeka destekli araçlarla tasarım süreçlerini yönettim.
+
+### 🧟‍♂️ Dead Silent
+Unreal Engine 5 ile geliştirdiğim zombi temalı 3. şahıs nişancı/parkur oyunu. Blueprint sistemi ile karakter ve kamera kontrolü, yapay zekâ saldırı ve algılama davranışları, parkur sistemleri gibi mekanikleri entegre ettim.
 
 ---
 
-## 🚀 Aktif Projelerim
-1. **[Kör Gladyatörler](https://github.com/ebakc/korGladyatorler)**  
-   - Java ve Android Studio ile geliştirilen ekip projesi.  
-   - Tasarımda Photoshop + AI araçları kullanıldı.  
+## 🛠️ Yetenekler
+
+- 💻 Diller & Araçlar:  
+  `Java` `C#` `JavaScript` `C++` `HTML` `CSS` `SQL`
+
+- 🧠 Teknolojiler:  
+  `Unreal Engine` `Android Studio` `Git` `Photoshop`
+
+- 🌐 Diller:  
+  Türkçe (Anadil), İngilizce (B2)
 
 ---
 
-## 🌱 Şu Anda Öğrendiklerim  
-- Unreal Engine    
+## 📫 Bana Ulaşın
 
----
-
-## 📫 İletişim  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profiliniz-0A66C2?logo=linkedin)](https://www.linkedin.com/in/emre-burak-ak%C3%A7ealan-116b42295/)  
-[![Email](https://img.shields.io/badge/Email-Bana%20Ulaşın-D14836?logo=gmail)](mailto:emreakcealan@gmail.com)  
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ebakc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ebakc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebakc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ebakc&icon=0&color=0)](https://visitcount.itsvg.in)
+- GitHub: [@ebakc](https://github.com/ebakc)  
+- LinkedIn: [emre-burak-akçealan](https://www.linkedin.com/in/emre-burak-akçealan-116b42295/)  
+- Mail: emreakcealan@gmail.com
